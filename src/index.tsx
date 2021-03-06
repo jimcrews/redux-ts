@@ -1,10 +1,8 @@
 
 import * as ReactDOM from 'react-dom';
-
+import App from './components/App';
 
 ReactDOM.render(
-  <div>
-      <h1>Initial</h1>
-  </div>,
+  <App />,
   document.getElementById('root') as HTMLElement
 );
