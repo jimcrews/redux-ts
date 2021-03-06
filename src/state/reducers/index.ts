@@ -6,3 +6,6 @@ const reducers = combineReducers({
 });
 
 export default reducers;
+
+// get typescript to understand Redux state types
+export type RootState = ReturnType<typeof reducers>;

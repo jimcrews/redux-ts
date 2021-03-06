@@ -3,7 +3,8 @@
 ### <b>Demo</b> - <i>Use the NPM API to search for packages.
 
 <br />
-<br />
+
+![](https://res.cloudinary.com/digjdosfu/image/upload/v1615001788/Articles/redux-ts-demo-app.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the following commands:
 
